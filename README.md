@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdemoser
-- 👀 I’m interested in Java, Python, C++, JavaScript
+- 👀 I’m interested in Java, Python, C++.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me mdemoser@gmail.com
