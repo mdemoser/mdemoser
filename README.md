@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me mdemoser@gmail.com
 
-I've studied four years Intenational Relations, and have some work experience on the field, and now I'm into programming, mostly Java.
+I've studied for four years Intenational Relations, and have some work experience in the field, and now I'm into programming, mostly Java.
