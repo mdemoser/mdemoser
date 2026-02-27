@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marcod and I'm a tec student, from 2005 to 2011 I`ve studied International Relations spending 2 years between 4 conutries in Europe.</p>
+<p align="left">My name is Marcos and I'm a tec student, from 2005 to 2011 I`ve studied International Relations spending 2 years between 4 conutries in Europe.</p>
 
 ###
 
