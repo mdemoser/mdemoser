@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning HTML, CSS, JS, JAVA, Linux, Servers, Cloud.<br>🎯 Goals: a job in infrastructure and network<br>🎲 Fun fact: I`m a poet, better at coding :)<br>Reading is living.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning CCNA, Bash, Python, Linux, Servers, Cloud.<br>🎯 Goals: a job in infrastructure and network<br>🎲 Fun fact: I`m a poet, better at coding :)<br>Reading is living.</p>
 
 ###
 
